@@ -1,7 +1,3 @@
-# Name : RAMANUJAM G
-
-# Reg No : 212224240129
-
 #  Mean and variance of a discrete  distribution
 
 
